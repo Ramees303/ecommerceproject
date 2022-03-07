@@ -33,9 +33,8 @@ body{
 
 }
 .my_image{
- width:100%
- height:auto;
-
+ width: 40%;
+ height: 40%;
 }
 .my_title{
  font-size:16px;
@@ -110,6 +109,8 @@ body{
 
 
 }
+
+
 
 
 

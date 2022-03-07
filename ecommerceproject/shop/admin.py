@@ -3,7 +3,6 @@ from django.contrib import admin
 # Register your models here.
 from shop.models import Category,Product
 
-
 class CategoryAdmin(admin.ModelAdmin):
 
     list_display = ['name','slug']
